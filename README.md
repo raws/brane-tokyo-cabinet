@@ -2,7 +2,9 @@ Brane is a simple [Markov chain](http://en.wikipedia.org/wiki/Markov_chain) gene
 
 ### Installation
 
-    $ gem install brane
+You'll need Tokyo Cabinet installed. If you're using [Homebrew](http://mxcl.github.com/homebrew/) on OS X, this is easy: `brew install tokyo-cabinet`.
+
+Then, install Brane: `gem install brane`.
 
 ### Usage
 
