@@ -23,7 +23,7 @@ end
   puts brane.sentence #=> "my legs are almost better than youtube comments"
 end
 
-brain.sleep
+brane.sleep
 ```
 
 ### License <small>(MIT)</small>
