@@ -1,9 +1,9 @@
 Gem::Specification.new do |gem|
-  gem.name = 'brane'
+  gem.name = 'brane-tokyo-cabinet'
   gem.version = '0.0.1'
   gem.authors = ['Ross Paffett']
   gem.email = ['ross@rosspaffett.com']
-  gem.description = 'Simple Markov chain generator'
+  gem.description = 'Simple Markov chain generator with Tokyo Cabinet persistence'
   gem.summary = gem.description
   gem.homepage = 'https://github.com/raws/brane'
 
